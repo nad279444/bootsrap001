@@ -1,0 +1,29 @@
+.btn-primary {
+    color: #fff;
+    background-color: #333333;
+    border-color: #333333; 
+    border-radius: 0px;
+}
+button.btn.btn-top{
+	margin-left: 102px;
+	color: #fff;
+    background-color: #333333;
+    border-color: #333333; 
+    border-radius: 0px;
+    margin-top: 20px;
+}
+button.r-btn{
+	background-color: #777;
+	padding: 12px;
+	border-radius: 50%;
+	border: none;
+	margin-left: -30px;
+}
+div.line{
+    width: 25px;
+    height: 5px;
+    background-color: #ffab00;
+    margin-left: 90px;
+    border-radius: 30%;
+}
+

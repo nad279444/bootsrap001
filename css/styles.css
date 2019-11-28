@@ -1,0 +1,22 @@
+.navbar-default 
+{
+    background-color: #af1313;
+    border-color: #e7e7e7;
+}
+
+@media (min-width: 768px)
+.navbar {
+    border-radius: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fcf8e3;
+}
+.navbar-default .navbar-brand {
+    color: #fcf8e3;
+}
+.footer{
+	background-color: #af1313;
+	color: white;
+	padding: 1.5rem 0;
+}
