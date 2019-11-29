@@ -20,8 +20,8 @@ ul.link{
 .navbar-default .navbar-nav > li > a {
     color: #286090;
 }
-div>img{
-    max-width: 50px;
+div .image{
+    max-width: 50%;
     height: 50px;
 }
 
