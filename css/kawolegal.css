@@ -24,11 +24,17 @@
     padding-top: 30px;
     padding-bottom: 30px;
     margin-bottom: 30px;
-    color: inherit;
-    background-color: #3e0403;    
+    color: inherit;   
     height: 100vh;
-    background-image: url(images/jinna.jpg);
-    background-size: 100%;
+    background-size: 100% 100%;
+    background-image: url(./images/supreme.jpg);
+    background-color:  #3e0403;
+}
+.overlay{
+    height: 100vh;
+    opacity: 0.8;
+        
+    
 }
 
 .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
